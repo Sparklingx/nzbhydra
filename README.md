@@ -23,7 +23,8 @@ To all testers, bug reporters, donators, all around awesome people
 
        http://www.apache.org/licenses/LICENSE-2.0
 
-[b]Install NZBHydra on Ubuntu[/b]
+Install NZBHydra on Ubuntu
+
 Update your Ubuntu repositories and install python 2.7 and git
 
 sudo apt-get update
